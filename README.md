@@ -4,6 +4,7 @@
 👨‍🚀**About me:**
 
 I'm a Frontend developer. I am actively studying Frontend (React) development and am looking for work remotely or in the office in Perm. I currently have over 3 years of commercial experience and have completed Hexlet training. Within the framework of which I completed 4 educational projects. Before IT, I worked as a leading engineer in the oil industry. I like programming. I devote myself completely to this direction. I have a great desire to get a job in an excellent company that will allow me to develop much faster, improve my level as a programmer, and also contribute to the company.
+
 📚**Knowledge and Proficiency:**
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,jest,babel,bash,vscode,git,jquery,nodejs,webpack,vite,html,css,bootstrap)](https://skillicons.dev)
